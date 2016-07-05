@@ -1,0 +1,17 @@
+Person :
+First Name : Rayan
+Last Name : Miller
+
+Student :
+First Name : Jacob
+Last Name : Smith
+ID : 1
+Standard : 1 - B
+Instructor : Roma
+
+Teacher :
+First Name : Daniel
+Last Name : Martin
+Main Subject : English
+Salary : 6000
+Type : Primary Teacher
